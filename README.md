@@ -2,7 +2,7 @@
 ## Quantitative veterinary epidemiology and disease ecology lab
 ==============================
 
-Text summarizing your project.
+My code reads in the hummingbird rehabilitation dataset, checks its structure, and creates a cleaned random subset for analysis. It summarizes key variables such as age, sex, season, place, and first aid to explore how they relate to survival outcomes. The code also generates bar plots, including faceted plots, to visually compare death versus release rates across different covariates. It calculates proportions by rehabilitation center and creates grouped species categories to examine broader patterns. Finally, it converts admission dates, summarizes trends over time, and produces monthly and yearly admission plots to visualize changes across the study period.
 
 ## Project Organization
 ------------
